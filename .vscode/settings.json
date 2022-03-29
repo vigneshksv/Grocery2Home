@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "[html]": {
+      "editor.formatOnSave": true,
+    },
+    "[*.component.ts]": {
+      "editor.formatOnSave": true,
+    }
+}

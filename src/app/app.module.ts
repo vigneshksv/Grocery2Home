@@ -4,6 +4,7 @@ import {MatToolbarModule, MatIconModule} from '@angular/material';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { MenuBarModule } from './menubar/menubar.module';
+import { SidenavModule } from './sidenav/sidenav.module';
 import { ReactiveFormsModule } from '@angular/forms';
 
 
@@ -12,6 +13,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     BrowserModule,
     MatToolbarModule,
     MatIconModule,
+    SidenavModule,
     MenuBarModule,
     BrowserAnimationsModule,
     ReactiveFormsModule
